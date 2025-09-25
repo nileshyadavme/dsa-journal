@@ -21,8 +21,8 @@ The goal is not just to solve problems, but to understand the underlying pattern
 Here are some cool shields to track progress automatically (you'll need to configure them).
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-dsa_user-blue?logo=leetcode&labelColor=24292e&style=for-the-badge" alt="LeetCode Username"/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-0-brightgreen?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/LeetCode-nileshsensei-blue?logo=leetcode&labelColor=24292e&style=for-the-badge" alt="LeetCode nileshsensei"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-152-brightgreen?style=for-the-badge" alt="Problems Solved"/>
   <img src="https://img.shields.io/badge/Last%20activity-today-yellow?style=for-the-badge" alt="Last activity"/>
 </p>
 
@@ -116,19 +116,6 @@ A table to log every problem I solve.
 |            |                                                            |           |                   |            | ⏳ In Progress |                                                    |
 |            |                                                            |           |                   |            | ❌ Skipped  |                                                    |
 
-
----
-
-## 🗓️ Daily Journal Log
-
-A place for daily thoughts, summaries of concepts learned, or reflections on difficult problems. I'll create separate files for detailed notes in a `/notes` directory.
-
-### 2025-09-25
-* **Topic:** Hash Tables.
-* **Learnings:** Reviewed the core concepts of hash functions and collision resolution. Implemented a simple hash table from scratch.
-* **Problem Solved:** LeetCode "Two Sum". The brute-force approach is $O(n^2)$, but using a hash map to store seen numbers and their indices optimizes it to a single pass, making it $O(n)$ time complexity. Space complexity becomes $O(n)$ for the map.
-
-*_(Add new entries at the top)_*
 
 ---
 
