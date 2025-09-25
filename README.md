@@ -80,7 +80,8 @@ A checklist to keep track of all the topics I've covered.
   - [ ] Greedy Algorithms
   - [ ] Divide and Conquer
 - [ ] **Dynamic Programming**
-  - [ ] Memoization (Top-Down)
+  -  [Youtube Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+  - [x] Memoization (Top-Down)
   - [ ] Tabulation (Bottom-Up)
   - [ ] 1-D & 2-D DP
   - [ ] 0-1 Knap-Sack
@@ -151,12 +152,3 @@ A curated list of resources I'm using for my journey.
 * [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 
 ---
-
-### How to Use This Journal
-
-1.  **Update Checklists:** As I cover a new topic, I'll tick the checkbox (`- [x]`).
-2.  **Log Solved Problems:** Add a new row to the **Problem Solving Tracker** table for every problem attempted.
-3.  **Write Daily:** Make a quick entry in the **Daily Journal Log** to summarize the day's work.
-4.  **Store Code:** Keep solutions in organized folders (e.g., `/LeetCode/Arrays/TwoSum.cpp`).
-
-> "The journey of a thousand miles begins with a single step." - Lao Tzu
